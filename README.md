@@ -1,4 +1,5 @@
 # Flsun-Q5-Delta-3D-model-
+Feel free to DM me if you have any questions  ty88#4122
 
 Warning this model is not 100% accurate 
  
