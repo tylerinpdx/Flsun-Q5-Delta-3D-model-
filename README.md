@@ -1,5 +1,5 @@
 # Flsun-Q5-Delta-3D-model-
-Flsun Q5 Delta CAD model 
+
 Warning this model is not 100% accurate 
 
 The bottom plate is about as accurate as I can get it
