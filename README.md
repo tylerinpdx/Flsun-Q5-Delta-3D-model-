@@ -1,5 +1,10 @@
 # Flsun-Q5-Delta-3D-model-
 Feel free to DM me if you have any questions  ty88#4122
+Credits 
+
+MKS Mainboard model by Pigeon Print [https://grabcad.com/library/mks-robin-nano-v1-2-1](url)
+
+2020 T nut form jimmi.henry [https://grabcad.com/library/t-nut-m5-for-2020-profile-1](url) Modified a little bit it was too tall 
 
 Warning this model is not 100% accurate 
  
